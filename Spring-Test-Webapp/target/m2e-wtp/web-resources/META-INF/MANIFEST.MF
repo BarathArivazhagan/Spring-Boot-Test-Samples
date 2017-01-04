@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring-Test-Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ba53395
+Implementation-Vendor-Id: com.barath.test.samples
+Build-Jdk: 1.8.0_40
+Implementation-URL: http://projects.spring.io/spring-boot/Spring-Test-
+ Controllers/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
